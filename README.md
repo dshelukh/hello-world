@@ -1,2 +1,2 @@
 # hello-world
-First commit
+First commit from git
